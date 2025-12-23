@@ -17,7 +17,7 @@ NQueens_Project/
 │   └── (auto-generated)
 
 navigate to src
->> g++ -O3 -march=native nqueens.cpp -o nqueens
+>> g++ -O3 -march=native nqueens_solver.cpp -o nqueens
 
 >> .\nqueens ..\input\input1.txt
 
