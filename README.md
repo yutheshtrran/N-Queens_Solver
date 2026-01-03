@@ -19,6 +19,9 @@ NQueens_Project/
 navigate to src
 >> g++ -O3 -march=native nqueens_solver.cpp -o nqueens
 
+
+g++ -std=c++17 -O3 -march=native nqueens_solver.cpp -o nqueens
+
 >> .\nqueens ..\input\input1.txt
 
 
